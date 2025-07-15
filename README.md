@@ -36,7 +36,7 @@ The dataset contains fictional sales records, including:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ## 📂 Project Structure
 
